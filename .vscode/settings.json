@@ -1,0 +1,7 @@
+{
+  "editor.fontFamily": "\"Fira Code\", 'monospace', monospace",
+  "files.autoSave": "afterDelay",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.definitionLinkOpensInPeek": true,
+  "editor.experimental.pasteActions.enabled": true
+}
